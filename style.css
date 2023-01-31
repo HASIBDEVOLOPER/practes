@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+.logo img{
+    width: 200px;
+
+}
+.one a{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    justify-content: space-around;
+    text-align: center;
+    display: block;
+}
+.doubal{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px;
+
+}
+.hader-main{
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 10px;
+    outline: 5px solid lightblue;
+
+}
+.manu a{
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(222, 99, 99);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.btn a{
+    text-decoration: none;
+    background-color: cyan;
+    color: rgb(16, 16, 1);
+    padding: 10px;
+    border-radius: 10px;
+    outline: 3px dotted coral;
+}
+.hasib img{
+width: 88px;
+}
+.baby img{
+    width: 850px;
+    height: 250px;
+    border-radius: 10px;
+    outline: 3px solid lawngreen;
+}
+.div{
+    text-align: center;
+    background-color: antiquewhite;
+    color: black;
+    font-weight: 300;
+}
+.mahi img{
+    width: 100px;
+}
+.two{
+    font-weight: 400;
+    background-color: antiquewhite;
+    color: black;
+
+}
+.hasna img{
+    width: 853px;
+    outline: 3px dashed greenyellow;
+    border-radius: 5px;
+}
+.momo img{
+    width: 840px;
+outline: 3px dotted burlywood;
+border-radius: 10px;
+}
+.muna img{
+    width: 845px;
+ outline: 3px solid red;
+ border-radius: 20px;
+}
